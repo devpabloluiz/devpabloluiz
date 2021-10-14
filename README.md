@@ -1,8 +1,7 @@
 ### Hi there! You can call me Pablin 🤗
 
 - 🔭 I'm currently interning with .NET + C#
-- 🌱 I'm currently learning HTML, CSS and Javascript
-- 👯 I am knowledgeable in data analysis with Python too
+- 🌱 I'm currently learning ASP.NET Core and ASP.NET MVC
 
 <div align="center">
   <a href="https://github.com/devpabloluiz">
