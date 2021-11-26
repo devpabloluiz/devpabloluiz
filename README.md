@@ -1,6 +1,6 @@
 ### Hi there! You can call me Pablin 🤗
 
-- 🌱 I'm currently learning Python and C# + .NET
+- 🌱
 
 <div align="center">
   <a href="https://github.com/devpabloluiz">
