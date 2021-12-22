@@ -1,6 +1,6 @@
 ### Hi there! You can call me Pablin 🤗
 
-- 🌱 I am knowledgeable in C# and currently learning Java
+- 🌱 I am knowledgeable in C# and currently learning html, css & javacript!
 
 <div align="center">
   <a href="https://github.com/devpabloluiz">
