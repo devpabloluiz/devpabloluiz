@@ -1,7 +1,5 @@
 ### Hi there! You can call me Pablin 🤗
 
-- 🌱 I am knowledgeable in C# and currently learning HTML, CSS & JavaScript!
-
 <div align="center">
   <a href="https://github.com/devpabloluiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpabloluiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
